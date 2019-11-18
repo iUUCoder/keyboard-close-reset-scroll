@@ -1,6 +1,6 @@
 {
   "name": "keyboard-close-reset-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reset scroll on keyboard close.",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,9 @@
     "reset"
   ],
   "author": "UUCoder",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iUUCoder/keyboard-close-reset-scroll"
+  }
 }
