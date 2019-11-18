@@ -1,0 +1,20 @@
+{
+  "name": "keyboard-close-reset-scroll",
+  "version": "1.0.0",
+  "description": "Reset scroll on keyboard close.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keyboard",
+    "input",
+    "scroll",
+    "focus",
+    "blur",
+    "close",
+    "reset"
+  ],
+  "author": "UUCoder",
+  "license": "MIT"
+}
