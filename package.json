@@ -16,5 +16,9 @@
     "reset"
   ],
   "author": "UUCoder",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iUUCoder/keyboard-close-reset-scroll"
+  }
 }
