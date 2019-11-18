@@ -1,6 +1,6 @@
 {
   "name": "keyboard-close-reset-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reset scroll on keyboard close.",
   "main": "index.js",
   "scripts": {

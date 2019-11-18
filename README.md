@@ -5,12 +5,12 @@ This module can solve this problem, avoid page dislocation.
 
 ## Install
 
-`npm install kcrs --save`
+`npm install keyboard-close-reset-scroll --save`
 
 ## Uses
 
 ```js
-import kcrs from 'krcs';
+import kcrs from 'keyboard-close-reset-scroll';
 
 // init module, will init event listeners
 var success = kcrs.init();
